@@ -1,6 +1,6 @@
 # Experiment-Analysis
 
-Code for the Melonakos Lab of Neuroscience at Brigham Young University
+Forked Code onto my account from the existing lab code. Written by Nathan Philpot and Eric Melonakos for the Melonakos Lab of Neuroscience at Brigham Young University
 
 ## Description
 
